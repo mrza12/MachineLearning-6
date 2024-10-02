@@ -1,2 +1,4 @@
-# Machine Learning Final Project Course
+# Tugas Akhir Machine Learning
+
+## Klasifikasi Lung Cancer with CNN Alogaritma
 
